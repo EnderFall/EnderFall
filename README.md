@@ -1,76 +1,33 @@
 # Hi, I'm Wendy 👋  
-### Founder & CEO of [UniCryx](unicryx.com)
+### Founder & CEO of [UniCryx](https://unicryx.com)
 
-🚀 Building digital systems, software solutions, and creative technology experiences for modern businesses.
+🚀 Building digital systems, websites, and creative solutions for modern businesses.
 
 ---
 
 ## 👩‍💼 About Me
+I'm **Wendy**, the **Founder and CEO of UniCryx** — a digital solutions brand focused on websites, business systems, automation, and creative digital work.
 
-I'm **Wendy**, the **Founder and CEO of UniCryx** — a digital solutions company focused on building practical, scalable, and professional technology for businesses, startups, and growing teams.
-
-My work sits at the intersection of:
-
-- 💻 **Software & Web Development**
-- ⚙️ **Business Systems & Automation**
-- 🎨 **Creative Design & Digital Branding**
-- 📈 **Technology Strategy & Product Direction**
-
-I focus on creating solutions that are not only functional, but also aligned with real business needs, long-term growth, and modern digital expectations.
+I work across:
+- 💻 Software & Web Development  
+- ⚙️ Business Systems & Automation  
+- 🎨 Design & Creative Production  
+- 📈 Product & Digital Strategy  
 
 ---
 
 ## 🏢 About UniCryx
+**UniCryx** helps businesses strengthen their digital presence and operations through:
 
-**UniCryx** is a digital and technology solutions company that helps businesses strengthen their operations, online presence, and digital systems.
-
-We work on projects such as:
-
-- 🌐 Company profile websites
-- 🧩 Custom business systems
-- 📊 Internal dashboards
-- 🔄 Workflow automation
-- 🛒 POS system development
-- 🎬 Creative design & video editing
-- 📱 Digital brand support
-
-Our goal is simple:  
-> Build technology and digital assets that help businesses work better, look more professional, and grow with confidence.
+- 🌐 Company profile websites  
+- 🧩 Custom business systems  
+- 📊 Dashboards & automation  
+- 🎬 Design & video editing  
+- 🛒 POS system development  
 
 ---
 
-## 💼 What I Do
-
-### 🔹 Founder & Leadership
-As the founder of UniCryx, I lead the direction of the business across:
-
-- Business development
-- Product planning
-- Brand positioning
-- Client strategy
-- Creative and technical execution
-
-### 🔹 Development & Systems
-I work on digital solutions including:
-
-- Custom websites
-- Full-stack systems
-- Internal tools
-- Workflow and CRM setup
-- POS product planning
-
-### 🔹 Design & Creative Direction
-I also work on:
-
-- Graphic design
-- Company and campaign visuals
-- Video editing
-- UI/UX concepts
-- Digital identity support
-
----
-
-## 🧠 Skills & Expertise
+## 🧠 Skills
 
 ### 💻 Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -100,98 +57,35 @@ I also work on:
 ![CapCut](https://img.shields.io/badge/CapCut-111111?style=for-the-badge&logo=capcut&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-111827?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
-### ⚙️ Business & Systems
-![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white)
-
-
----
-
-## 📌 Experience Highlights
-
-Here are some of the areas I’ve worked on:
-
-- ✅ Developing company websites for businesses and organizations  
-- ✅ Building structured digital solutions for internal operations  
-- ✅ Designing business visuals, promotional content, and campaign assets  
-- ✅ Creating portfolio websites and brand-support materials  
-- ✅ Supporting business growth through better systems and digital presentation  
-- ✅ Planning product concepts such as POS and operational platforms  
-
 ---
 
 ## 🗂️ Portfolio Focus
-
-My portfolio includes work across:
-
-### 🌐 Websites
-- Company profile websites
-- Portfolio websites
-- Business landing pages
-- Website Application
-
-### 🎨 Design
-- Posters
-- Banners
-- Social media content
-- Marketing materials
-
-### 🎬 Video Editing
-- Event highlights
-- Short-form cinematic content
-- Promotional videos
-
-### ⚙️ Systems & Tools
-- Business workflows
-- CRM setup
-- Dashboard concepts
-- POS system planning
+- 🌐 Company websites & landing pages  
+- 🎨 Posters, banners, and social media design  
+- 🎬 Event highlights and promotional videos  
+- ⚙️ Business workflows, dashboards, and POS concepts  
 
 ---
 
 ## 📊 Current Focus
-
-Right now, I’m focused on:
-
-- Building **UniCryx** into a stronger digital solutions brand
-- Expanding **software and system development services**
-- Growing a stronger **creative + technical portfolio**
-- Developing **MaiXin POS System**
-- Working with local businesses and startups in **Indonesia and Internationally**
+- Growing **UniCryx**
+- Building websites and business systems
+- Expanding creative and technical services
+- Developing **MaiXin POS**
+- Working with businesses in **Indonesia and beyond**
 
 ---
 
-## 🤝 Let’s Connect
-
-If you're interested in:
-- working together
-- discussing a project
-- building a business website
-- creating digital systems
-- or collaborating with UniCryx
-
-feel free to reach out.
-
-### 📫 Contact
-- 🌍 Website: [thewendy.my.id](thewendy.my.id)
+## 🤝 Connect With Me
+- 🌍 Website: [thewendy.my.id](https://thewendy.my.id)
 - 📧 Email: [wendywenfybz@gmail.com](mailto:wendywenfybz@gmail.com)
 - 📱 Instagram: [@wendy_wenfy](https://www.instagram.com/wendy_wenfy)
 - 💼 LinkedIn: [Wendy](https://www.linkedin.com/in/wendy-wendy-920748374?)
 
 ---
 
-## ✨ Quote
-
-> “We build technology with clarity, purpose, and long-term value.”
-
----
-
 ## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnderFall&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderFall&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🧭 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=EnderFall&color=blueviolet&style=flat-square)
