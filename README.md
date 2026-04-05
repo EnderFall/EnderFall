@@ -57,7 +57,7 @@ My work combines technology, business thinking, and creative execution to build 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnderFall&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderFall&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnderFall&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderFall&layout=compact&theme=tokyonight&langs_count=8)
 ![GitHub Streak](https://streak-stats.demolab.com?user=EnderFall&theme=tokyonight)
 ![Visitor Count](https://komarev.com/ghpvc/?username=EnderFall&color=blueviolet&style=flat-square)
