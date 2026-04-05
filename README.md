@@ -57,6 +57,5 @@ My work combines technology, business thinking, and creative execution to build 
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EnderFall&theme=tokyonight)]
 ![GitHub Streak](https://streak-stats.demolab.com?user=EnderFall&theme=tokyonight)
 ![Visitor Count](https://komarev.com/ghpvc/?username=EnderFall&color=blueviolet&style=flat-square)
